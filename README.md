@@ -52,6 +52,7 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 
 Get_NFT_Sales/
 <br>├── get_NFT_sales.py
+<br>├── pudgypenguins.json (example)
 <br>└── README.md
 
 ## **License**
