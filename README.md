@@ -48,7 +48,7 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 
 4. It will check for updates every 5 minutes and log the status of each operation.
    
-## Tree Directory
+## **Tree Directory**
 
 Get_NFT_Sales/
 <br>├── get_NFT_sales.py
